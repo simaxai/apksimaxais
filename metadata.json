@@ -1,0 +1,6 @@
+{
+  "name": "SIMAX AI",
+  "description": "Red-on-black AI assistant with S TURBO models, image generation, voice chat, and live search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
